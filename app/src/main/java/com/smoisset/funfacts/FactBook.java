@@ -1,6 +1,5 @@
 package com.smoisset.funfacts;
 
-
 import java.util.Random;
 
 public class FactBook {
@@ -25,5 +24,4 @@ public class FactBook {
 
         return fact;
     }
-
 }
