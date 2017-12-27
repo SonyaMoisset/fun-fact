@@ -1,7 +1,6 @@
 package com.smoisset.funfacts;
 
 import android.graphics.Color;
-
 import java.util.Random;
 
 public class ColorWheel {
@@ -31,5 +30,4 @@ public class ColorWheel {
 
         return colorAsInt;
     }
-
 }
